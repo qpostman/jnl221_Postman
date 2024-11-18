@@ -11,7 +11,7 @@
 	font-weight: bold;
 	font-size: 50px;
 	text-align: center;
-	font-family: 'Georgia', serif;
+	font-family: 'Poppins', serif;
 	background-color: red;
 	color: whitesmoke;
 	letter-spacing: -2px;
@@ -19,8 +19,10 @@
 }
 h4 {
 	font-style: italic;
-	font-size: 40px;
-	font-family: 'Georgia', serif;
+	font-size: 30px;
+	font-family: 'Poppins', serif;
+	margin-top: -70px;
+	background-color: gray;
 }
 h3 {
 	font-size: 30px;
