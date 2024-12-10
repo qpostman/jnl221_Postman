@@ -46,8 +46,7 @@ h3 {
   border: black solid 4px;
 }
 
-/*Don't worry about this section yet*/
-@media only screen and (max-width: 667px) and (orientation: landscape)
+@media only screen and (max-width: 667px)
 {
 .footer p {
 	background-color: #003884;
@@ -56,8 +55,7 @@ h3 {
 	margin-bottom: 0;
 }
 .header {
-	font-size: 15px;
-	padding: 5px;
+	font-size: 14px;
 }
  iframe {
  	min-width: 90%;
