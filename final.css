@@ -12,7 +12,7 @@
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Poppins', serif;
-	background-color: red;
+	background-color: #7091E6;
 	color: whitesmoke;
 	letter-spacing: -2px;
 /*wanted to bring the letters close together for headings*/
@@ -22,17 +22,19 @@ h4 {
 	font-size: 30px;
 	font-family: 'Poppins', serif;
 	margin-top: -70px;
-	background-color: gray;
+	background-color: #ADBBDA;
 }
 h3 {
 	font-size: 30px;
+	color:#3D52A0;
 }
 .right{
 	float: right;
 	margin-left: 5%;
 	margin-right: 5%;
 	width: 20%;
-	margin-bottom: 80px;
+	margin-bottom: 40px;
+	border: black solid 4px;
 }
 
 .intro {
@@ -45,8 +47,9 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  border: black solid 4px;
 }
-}
+
 /*Don't worry about this section yet*/
 @media only screen and (max-width: 767px)
 {
