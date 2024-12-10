@@ -52,7 +52,7 @@ h3 {
 }
 
 /*Don't worry about this section yet*/
-@media only screen and (max-width: 767px)
+@media only screen and (min-width: 667px)
 {
 .footer p {
 	background-color: #003884;
