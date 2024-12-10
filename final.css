@@ -38,11 +38,6 @@ h3 {
 	border: black solid 4px;
 }
 
-.intro {
-	font-family: "Times New Roman", serif;
-	font-size: 100px;
-}
-
 .center{
   display: block;
   margin-left: auto;
@@ -60,15 +55,9 @@ h3 {
 	font-size: 20px;
 	margin-bottom: 0;
 }
- .list {
- 	float: none;
- 	min-width: 90%;
- 	margin-left: 10px;
- 	margin-bottom: 30px;
- 	margin-top: 30px;
- 	border: 2px solid darkgray;
- 	padding-left: 10px;
- }
+.center {
+	width: 100%;
+}
  iframe {
  	min-width: 90%;
  	margin-right: 10px;
