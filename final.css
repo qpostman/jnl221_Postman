@@ -54,8 +54,14 @@ h3 {
 	font-size: 20px;
 	margin-bottom: 0;
 }
-.header {
-	font-size: 14px;
+h1 {
+	font-size: 64px;
+	height: auto;
+	text-align: center;
+	font-family: 'Poppins', serif;
+	background-color: #7091E6;
+	color: whitesmoke;
+	letter-spacing: -2px;
 }
  iframe {
  	min-width: 90%;
