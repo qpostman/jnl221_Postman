@@ -45,6 +45,8 @@ h3 {
   width: 60%;
   border: black solid 4px;
 }
+a:visited {
+  color: blue;
 
 @media only screen and (max-width: 320px)
 {
