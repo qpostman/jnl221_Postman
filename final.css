@@ -46,7 +46,7 @@ h3 {
   border: black solid 4px;
 }
 
-@media only screen and (max-width: 428px)
+@media only screen and (max-width: 390px)
 {
 .footer p {
 	background-color: #003884;
